@@ -166,7 +166,8 @@ p.note { display: none; }
 <a href="20241125_017.JPG" target="_blank"><img src="20241125_017.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">薄い塩と醤油のような味付けで、結構美味しいですね！</span></h2>
-<a href="20241125_018.JPG" target="_blank"><img src="20241125_018.JPG" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="20241125_018.JPG" target="_blank"><img src="20241125_018.JPG" alt="サンプル画像" width="900" /></a>-->
 <a href="20241125_019.JPG" target="_blank"><img src="20241125_019.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">夜には満天の星空</span></h2>
