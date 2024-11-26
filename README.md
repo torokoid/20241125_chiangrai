@@ -153,6 +153,8 @@ p.note { display: none; }
 <a href="20241125_010.JPG" target="_blank"><img src="20241125_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_011.JPG" target="_blank"><img src="20241125_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_012.JPG" target="_blank"><img src="20241125_012.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">最後はLotus駐車場からの夕暮れ（ここだけ8分後）</span></h2>
 <a href="20241125_013.JPG" target="_blank"><img src="20241125_013.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">いつものLotus、床は綺麗に磨かれてるので、べったり座って商品整理</span></h2>
