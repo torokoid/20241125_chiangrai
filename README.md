@@ -116,7 +116,7 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_2024Nov24.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_2024Nov25.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
@@ -132,28 +132,44 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
 <h2><span class="yellow">朝の目覚めは、野鳥とアヒルの鳴き声が目覚まし代わり？</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v6er5HnybcE?si=rDmBcvAZBcRX6LT1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v6er5HnybcE?si=rDmBcvAZBcRX6LT1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
 
-
+<h2><span class="yellow">朝食は薄味のお粥、日本のお粥に味がつけてある感じ</span></h2>
 <a href="20241125_001.JPG" target="_blank"><img src="20241125_001.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">庭のお花も皆元気！</span></h2>
 <a href="20241125_002.JPG" target="_blank"><img src="20241125_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_003.JPG" target="_blank"><img src="20241125_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_004.JPG" target="_blank"><img src="20241125_004.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ニワトリたちは子育ての真っ最中！</span></h2>
 <a href="20241125_005.JPG" target="_blank"><img src="20241125_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_006.JPG" target="_blank"><img src="20241125_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_007.JPG" target="_blank"><img src="20241125_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_008.JPG" target="_blank"><img src="20241125_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_009.JPG" target="_blank"><img src="20241125_009.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">夕暮れの映像・・・ほぼ２分おきに撮影</span></h2>
 <a href="20241125_010.JPG" target="_blank"><img src="20241125_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_011.JPG" target="_blank"><img src="20241125_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_012.JPG" target="_blank"><img src="20241125_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_013.JPG" target="_blank"><img src="20241125_013.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">いつものLotus、床は綺麗に磨かれてるので、べったり座って商品整理</span></h2>
 <a href="20241125_014.JPG" target="_blank"><img src="20241125_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">スイカなどの大きな野菜は、選んだ後に重さを測って値札を貼ります</span></h2>
 <a href="20241125_015.JPG" target="_blank"><img src="20241125_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_016.JPG" target="_blank"><img src="20241125_016.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">夜のご飯で、ついにイナゴをいただきました！</span></h2>
 <a href="20241125_017.JPG" target="_blank"><img src="20241125_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">薄い塩と醤油のような味付けで、結構美味しいですね！</span></h2>
 <a href="20241125_018.JPG" target="_blank"><img src="20241125_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241125_019.JPG" target="_blank"><img src="20241125_019.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">夜には満天の星空</span></h2>
 <a href="20241125_020.JPG" target="_blank"><img src="20241125_020.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
