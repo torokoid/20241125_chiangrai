@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241124_chiangrai/20241124_012.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241125_chiangrai/20241125_013.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -125,14 +125,36 @@ p.note { display: none; }
 <!--上段にパンクズリストを入れる時の例-->
 
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/20241120_bangkok/" target="_blank">2024年11月20日、宇都宮からバンコクに移動</a>><a href="https://torokoid.github.io/20241121_bangkok/" target="_blank">11月21日バンコク市内をうろうろ</a>><a href="https://torokoid.github.io/20241122_chiangrai/" target="_blank">11月22日バンコク市内をうろついてからChaing Raiに移動</a>><a href="https://torokoid.github.io/20241123_chiangrai/" target="_blank">11月23日チェンライのショッピンセンターでお買い物して、午後は親戚のお葬式</a>><a>2024/11/24 、チェンライ3日目は, 朝市で朝ごはん調達</a></p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/20241120_bangkok/" target="_blank">2024年11月20日、宇都宮からバンコクに移動</a>><a href="https://torokoid.github.io/20241121_bangkok/" target="_blank">11月21日バンコク市内をうろうろ</a>><a href="https://torokoid.github.io/20241122_chiangrai/" target="_blank">11月22日バンコク市内をうろついてからChaing Raiに移動</a>><a href="https://torokoid.github.io/20241123_chiangrai/" target="_blank">11月23日チェンライのショッピンセンターでお買い物して、午後は親戚のお葬式</a>><a href="https://torokoid.github.io/20241124_chiangrai/" target="_blank">2024/11/24 、チェンライ3日目は, 朝市で朝ごはん調達</a>><a>2024/11/25 、チェンライの平穏な1日を記録</a></p></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
 
 <h2><span class="yellow">朝の目覚めは、野鳥とアヒルの鳴き声が目覚まし代わり？</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v6er5HnybcE?si=rDmBcvAZBcRX6LT1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
+
+<a href="20241125_001.JPG" target="_blank"><img src="20241125_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_002.JPG" target="_blank"><img src="20241125_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_003.JPG" target="_blank"><img src="20241125_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_004.JPG" target="_blank"><img src="20241125_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_005.JPG" target="_blank"><img src="20241125_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_006.JPG" target="_blank"><img src="20241125_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_007.JPG" target="_blank"><img src="20241125_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_008.JPG" target="_blank"><img src="20241125_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_009.JPG" target="_blank"><img src="20241125_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_010.JPG" target="_blank"><img src="20241125_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_011.JPG" target="_blank"><img src="20241125_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_012.JPG" target="_blank"><img src="20241125_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_013.JPG" target="_blank"><img src="20241125_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_014.JPG" target="_blank"><img src="20241125_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_015.JPG" target="_blank"><img src="20241125_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_016.JPG" target="_blank"><img src="20241125_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_017.JPG" target="_blank"><img src="20241125_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_018.JPG" target="_blank"><img src="20241125_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_019.JPG" target="_blank"><img src="20241125_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241125_020.JPG" target="_blank"><img src="20241125_020.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
 
